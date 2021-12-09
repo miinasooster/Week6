@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/bin/Debug/net5.0/ref/StringsAndArrays.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.pdb
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/ref/StringsAndArrays.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.pdb
+/Users/miinasooster/Projects/StringsAndArrays/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.genruntimeconfig.cache

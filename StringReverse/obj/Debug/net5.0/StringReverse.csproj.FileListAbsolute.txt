@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/bin/Debug/net5.0/StringReverse.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/bin/Debug/net5.0/StringReverse.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/bin/Debug/net5.0/StringReverse.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/bin/Debug/net5.0/StringReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/bin/Debug/net5.0/ref/StringReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/bin/Debug/net5.0/StringReverse.pdb
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/ref/StringReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.pdb
+/Users/miinasooster/Projects/StringsAndArrays/StringReverse/obj/Debug/net5.0/StringReverse.genruntimeconfig.cache

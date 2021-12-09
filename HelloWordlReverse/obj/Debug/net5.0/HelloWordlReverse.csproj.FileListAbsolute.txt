@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/bin/Debug/net5.0/HelloWordlReverse.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/bin/Debug/net5.0/HelloWordlReverse.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/bin/Debug/net5.0/HelloWordlReverse.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/bin/Debug/net5.0/HelloWordlReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/bin/Debug/net5.0/ref/HelloWordlReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/bin/Debug/net5.0/HelloWordlReverse.pdb
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/ref/HelloWordlReverse.dll
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.pdb
+/Users/miinasooster/Projects/StringsAndArrays/HelloWordlReverse/obj/Debug/net5.0/HelloWordlReverse.genruntimeconfig.cache

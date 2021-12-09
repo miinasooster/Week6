@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.dll
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/ref/DontPanic.dll
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.pdb
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.dll
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/ref/DontPanic.dll
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.pdb
+/Users/miinasooster/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.genruntimeconfig.cache

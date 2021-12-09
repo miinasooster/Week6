@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/bin/Debug/net5.0/HOLCounter.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/bin/Debug/net5.0/HOLCounter.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/bin/Debug/net5.0/HOLCounter.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/bin/Debug/net5.0/HOLCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/bin/Debug/net5.0/ref/HOLCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/bin/Debug/net5.0/HOLCounter.pdb
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/ref/HOLCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.pdb
+/Users/miinasooster/Projects/StringsAndArrays/HOLCounter/obj/Debug/net5.0/HOLCounter.genruntimeconfig.cache

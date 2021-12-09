@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/bin/Debug/net5.0/FirstOrLast.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/bin/Debug/net5.0/FirstOrLast.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/bin/Debug/net5.0/FirstOrLast.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/bin/Debug/net5.0/FirstOrLast.dll
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/bin/Debug/net5.0/ref/FirstOrLast.dll
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/bin/Debug/net5.0/FirstOrLast.pdb
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.dll
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/ref/FirstOrLast.dll
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.pdb
+/Users/miinasooster/Projects/StringsAndArrays/FirstOrLast/obj/Debug/net5.0/FirstOrLast.genruntimeconfig.cache

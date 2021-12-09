@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/bin/Debug/net5.0/FortuneTeller.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/bin/Debug/net5.0/FortuneTeller.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/bin/Debug/net5.0/FortuneTeller.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/bin/Debug/net5.0/FortuneTeller.dll
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/bin/Debug/net5.0/ref/FortuneTeller.dll
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/bin/Debug/net5.0/FortuneTeller.pdb
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.dll
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/ref/FortuneTeller.dll
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.pdb
+/Users/miinasooster/Projects/StringsAndArrays/FortuneTeller/obj/Debug/net5.0/FortuneTeller.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/bin/Debug/net5.0/ACharacherCounter.deps.json
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/bin/Debug/net5.0/ACharacherCounter.runtimeconfig.json
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/bin/Debug/net5.0/ACharacherCounter.runtimeconfig.dev.json
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/bin/Debug/net5.0/ACharacherCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/bin/Debug/net5.0/ref/ACharacherCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/bin/Debug/net5.0/ACharacherCounter.pdb
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.AssemblyInfo.cs
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ref/ACharacherCounter.dll
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.pdb
+/Users/miinasooster/Projects/StringsAndArrays/ACharacherCounter/obj/Debug/net5.0/ACharacherCounter.genruntimeconfig.cache
